@@ -1,14 +1,33 @@
-# Student Absence Excuse Verification System
+# 🎓 Student Absence Excuse Verification System
 
-## Overview
-An automated digital system designed to streamline and manage the submission, processing, and verification of student absence excuses, completely replacing traditional paper-based methods.
+> **Graduation Project** | Automated excuse verification & seamless integration system.
 
-## Key Features & Integrations
-* **System Integration:** Connected with official platforms for automated request validation.
-* **Absher Integration:** Automatically verifies official records (e.g.,death excuses).
-* **Sehaty Integration:** Verifies official medical absence reports.
-* **Smart Processing:** Features automated verification methods to accelerate approval workflows.
+> [!NOTE]
+> **Project Goal:** Replacing paper-based absence workflows with a smart, fully automated digital system connected to official Saudi platforms.
 
-## My Role & Technical Contribution
-* **Systems Analysis:** Analyzed system requirements, mapped user flows, and designed the overall system architecture.
-* **UI/UX Design:** Designed end-to-end interactive prototypes and user interfaces using **Figma**.
+---
+
+### 🚀 Key Features & Integrations
+
+| Feature | Integration | Description |
+| :--- | :---: | :--- |
+| **Bereavement Excuses** | 🛡️ Absher | Automatically verifies official government records. |
+| **Medical Excuses** | 🏥 Sehaty | Verifies and validates health absence reports directly. |
+| **Smart Approval** | ⚡ Automated | Fast-tracks verification and workflow processing. |
+
+---
+
+<details>
+<summary><b>🛠️ My Role & Technical Contribution (Click to Expand)</b></summary>
+<br>
+
+* **Systems Analysis:** Requirement gathering, mapping user flows, and designing end-to-end system architecture.
+* **UI/UX Design:** High-fidelity interactive prototyping, wireframing, and design system setup in **Figma**.
+
+</details>
+
+---
+
+### 🧰 Tech & Tools Used
+![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Systems Analysis](https://img.shields.io/badge/Architecture-System%20Analysis-0052CC?style=for-the-badge)
